@@ -1,0 +1,20 @@
+{
+  "name": "aprendiendo-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://alvarocampossanchez2008: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@github.com/alvarocampossanchez2008/aprendiendo-react.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alvarocampossanchez2008/aprendiendo-react/issues"
+  },
+  "homepage": "https://github.com/alvarocampossanchez2008/aprendiendo-react#readme"
+}
